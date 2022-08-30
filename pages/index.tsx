@@ -1,6 +1,6 @@
 import { NextPage } from "next";
+import Image from "next/future/image";
 import Head from "next/head";
-import Image from "next/image";
 
 const Home: NextPage = () => {
 	return (
